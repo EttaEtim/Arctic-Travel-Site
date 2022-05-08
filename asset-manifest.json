@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Arctic-Travel-Site/static/css/main.1865664a.css",
+    "main.js": "/Arctic-Travel-Site/static/js/main.a0aabdab.js",
+    "static/media/mountain.png": "/Arctic-Travel-Site/static/media/mountain.5a4e15a9a0ab603a6e1f.png",
+    "static/media/skilady.png": "/Arctic-Travel-Site/static/media/skilady.21a84986a3327e081ea6.png",
+    "static/media/mountain-resort.png": "/Arctic-Travel-Site/static/media/mountain-resort.00c65edc7ed97f6bd2b6.png",
+    "static/media/pic7.png": "/Arctic-Travel-Site/static/media/pic7.d04c2a170c6772723371.png",
+    "static/media/freezing-waterlake.png": "/Arctic-Travel-Site/static/media/freezing-waterlake.93a21a2298edd1bedd62.png",
+    "static/media/pic5.png": "/Arctic-Travel-Site/static/media/pic5.c71f63835065e0dc6772.png",
+    "static/media/fuji-mountain.png": "/Arctic-Travel-Site/static/media/fuji-mountain.bc59134c76b5c1223164.png",
+    "static/media/pic6.png": "/Arctic-Travel-Site/static/media/pic6.8ed0011303da3c0fceb3.png",
+    "static/media/pic2.png": "/Arctic-Travel-Site/static/media/pic2.5cb1e0d079a3a024d7d6.png",
+    "static/media/map.png": "/Arctic-Travel-Site/static/media/map.1b87be1eb2035ee621ae.png",
+    "index.html": "/Arctic-Travel-Site/index.html",
+    "main.1865664a.css.map": "/Arctic-Travel-Site/static/css/main.1865664a.css.map",
+    "main.a0aabdab.js.map": "/Arctic-Travel-Site/static/js/main.a0aabdab.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1865664a.css",
+    "static/js/main.a0aabdab.js"
+  ]
+}
